@@ -1,5 +1,5 @@
 # Customer Engagement Analysis
-
+[Dashboard](https://public.tableau.com/app/profile/kuanyu.lai/viz/CustomerInsightAnalysis/Overview)
 ## Project Overview
 An in-depth analysis using SQL and Tableau on self-made subscription platform data surfaces answering key busineess questions like:
 
